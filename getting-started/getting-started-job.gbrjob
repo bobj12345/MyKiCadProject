@@ -5,16 +5,16 @@
       "Application": "Pcbnew",
       "Version": "10.0.2"
     },
-    "CreationDate": "2026-07-02T14:07:41+09:00"
+    "CreationDate": "2026-07-03T11:27:46+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "LED",
-      "GUID": "4c45442e-6b69-4636-9164-5f7063625858",
+      "Name": "getting-started",
+      "GUID": "67657474-696e-4672-9d73-746172746564",
       "Revision": "0"
     },
     "Size": {
-      "X": 42.05,
+      "X": 45.05,
       "Y": 36.05
     },
     "LayerNumber": 2,
@@ -27,54 +27,54 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.2,
+      "MinLineWidth": 0.4,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "LED-F_Cu.gbr",
+      "Path": "getting-started-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "LED-B_Cu.gbr",
+      "Path": "getting-started-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "LED-F_Paste.gbr",
+      "Path": "getting-started-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "LED-B_Paste.gbr",
+      "Path": "getting-started-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "LED-F_Silkscreen.gbr",
+      "Path": "getting-started-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "LED-B_Silkscreen.gbr",
+      "Path": "getting-started-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "LED-F_Mask.gbr",
+      "Path": "getting-started-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "LED-B_Mask.gbr",
+      "Path": "getting-started-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "LED-Edge_Cuts.gbr",
+      "Path": "getting-started-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

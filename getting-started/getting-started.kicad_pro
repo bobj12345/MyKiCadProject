@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LED.kicad_pro",
+    "filename": "getting-started.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -506,7 +506,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.4,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -673,17 +673,17 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "LED.kicad_sch",
+        "filename": "getting-started.kicad_sch",
         "name": "루트",
-        "uuid": "37335d2c-2aea-4f24-9a80-082e17e2082f"
+        "uuid": "87f57f61-2932-4fe4-97d6-165a3b3b1dee"
       }
     ],
-    "used_designators": "#PWR1-2,BT1,D1,#FLG1-2,R1,SW1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
-      "37335d2c-2aea-4f24-9a80-082e17e2082f",
+      "87f57f61-2932-4fe4-97d6-165a3b3b1dee",
       "루트"
     ]
   ],
