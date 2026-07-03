@@ -3202,10 +3202,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bb215b8-7062-499f-b693-c3ae49335811")
+			(uuid "8bb215b8-7062-499f-b693-c3ae49335812")
 		)
 		(pin "2"
-			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72005")
+			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72006")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -3467,10 +3467,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bb215b8-7062-499f-b693-c3ae49335811")
+			(uuid "8bb215b8-7062-499f-b693-c3ae49335813")
 		)
 		(pin "2"
-			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72005")
+			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72007")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -3571,10 +3571,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bb215b8-7062-499f-b693-c3ae49335811")
+			(uuid "8bb215b8-7062-499f-b693-c3ae49335814")
 		)
 		(pin "2"
-			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72005")
+			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72008")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -3879,10 +3879,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bb215b8-7062-499f-b693-c3ae49335811")
+			(uuid "8bb215b8-7062-499f-b693-c3ae49335815")
 		)
 		(pin "2"
-			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72005")
+			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72009")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -4157,10 +4157,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bb215b8-7062-499f-b693-c3ae49335811")
+			(uuid "8bb215b8-7062-499f-b693-c3ae49335816")
 		)
 		(pin "2"
-			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72005")
+			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c7200a")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -4498,10 +4498,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bb215b8-7062-499f-b693-c3ae49335811")
+			(uuid "8bb215b8-7062-499f-b693-c3ae49335817")
 		)
 		(pin "2"
-			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72005")
+			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c7200b")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -4658,10 +4658,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "5d8fe6d0-0d49-44e1-83a7-da0fee2567e2")
+			(uuid "5d8fe6d0-0d49-44e1-83a7-da0fee2567e3")
 		)
 		(pin "2"
-			(uuid "c03fe439-1c40-468e-87c6-9932fde24786")
+			(uuid "c03fe439-1c40-468e-87c6-9932fde24787")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -4740,7 +4740,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c0b08d8f-0adb-4d1a-b5b1-8e0fd14be26d")
+			(uuid "c0b08d8f-0adb-4d1a-b5b1-8e0fd14be26e")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -4819,7 +4819,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "18ee292a-a47a-409a-be4d-16afd6153414")
+			(uuid "18ee292a-a47a-409a-be4d-16afd6153415")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
@@ -4998,10 +4998,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bb215b8-7062-499f-b693-c3ae49335811")
+			(uuid "8bb215b8-7062-499f-b693-c3ae49335818")
 		)
 		(pin "2"
-			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c72005")
+			(uuid "d120d2dc-9ed8-4e33-ba8a-784171c7200c")
 		)
 		(instances
 			(project "MotorDriverControlBoard"
