@@ -670,6 +670,199 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "getting-started:M2011S3A1W03"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 0 5.334 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "M2011S3A1W03"
+				(at 0 3.302 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "getting-started:Switch_Toggle_SPST_NKK_M2011S3A1x03"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "spst switch toggle"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "M2011S3A1W03_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0.254) (xy 1.778 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 0)
+					(radius 0.0001)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 0)
+					(radius 0.0001)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 0)
+					(radius 0.0001)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 0)
+					(radius 0.0001)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "M2011S3A1W03_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -1041,6 +1234,12 @@
 		)
 	)
 	(junction
+		(at 185.42 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03a0d628-8c46-4c9f-a14b-c1d429b7ec98")
+	)
+	(junction
 		(at 205.74 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1050,7 +1249,7 @@
 		(at 185.42 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "910deb69-3736-49f9-bdf3-30170941044e")
+		(uuid "b7351cfd-ad3e-4043-942b-68dc929ffd98")
 	)
 	(junction
 		(at 205.74 144.78)
@@ -1058,15 +1257,9 @@
 		(color 0 0 0 0)
 		(uuid "d3b6a8d3-d75a-4c17-a3c6-c4d38425789f")
 	)
-	(junction
-		(at 185.42 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fe98e11e-e1c0-48e5-8f3f-b2f2c1b08e38")
-	)
 	(wire
 		(pts
-			(xy 185.42 128.27) (xy 185.42 139.7)
+			(xy 185.42 135.89) (xy 185.42 139.7)
 		)
 		(stroke
 			(width 0)
@@ -1076,7 +1269,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 109.22) (xy 185.42 118.11)
+			(xy 185.42 109.22) (xy 185.42 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1174,6 +1367,16 @@
 		)
 		(uuid "e314c76a-31c3-4b0d-8589-88f023552a03")
 	)
+	(wire
+		(pts
+			(xy 185.42 121.92) (xy 185.42 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2d8254a-56da-49ee-a413-75d1f72e2d0e")
+	)
 	(label "led"
 		(at 226.06 123.19 270)
 		(effects
@@ -1183,6 +1386,88 @@
 			(justify right bottom)
 		)
 		(uuid "db24ddfc-67ec-44c8-837f-c3866181b9af")
+	)
+	(symbol
+		(lib_id "getting-started:M2011S3A1W03")
+		(at 185.42 116.84 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e501b4d-8e0a-4e64-bbde-5baef1bb785b")
+		(property "Reference" "SW1"
+			(at 186.69 115.5699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "M2011S3A1W03"
+			(at 186.69 118.1099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "getting-started:Switch_Toggle_SPST_NKK_M2011S3A1x03"
+			(at 185.42 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dbe14b5e-d7d0-47e3-9019-a55374d98019")
+		)
+		(pin "3"
+			(uuid "93412ad7-a3a1-417f-9134-7edd6e6347d1")
+		)
+		(instances
+			(project "getting-started"
+				(path "/87f57f61-2932-4fe4-97d6-165a3b3b1dee"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
@@ -1265,7 +1550,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery")
-		(at 185.42 123.19 0)
+		(at 185.42 130.81 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1276,7 +1561,7 @@
 		(fields_autoplaced yes)
 		(uuid "2432dc47-b444-475f-b9a9-712b32fabefa")
 		(property "Reference" "BT1"
-			(at 189.23 121.3484 0)
+			(at 189.23 128.9684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1287,7 +1572,7 @@
 			)
 		)
 		(property "Value" "3V"
-			(at 189.23 123.8884 0)
+			(at 189.23 131.5084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1298,7 +1583,7 @@
 			)
 		)
 		(property "Footprint" "Battery:BatteryHolder_Keystone_1058_1x2032"
-			(at 185.42 121.666 90)
+			(at 185.42 129.286 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1309,7 +1594,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 121.666 90)
+			(at 185.42 129.286 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1320,7 +1605,7 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
-			(at 185.42 123.19 0)
+			(at 185.42 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1331,7 +1616,7 @@
 			)
 		)
 		(property "Sim.Device" "V"
-			(at 185.42 123.19 0)
+			(at 185.42 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1342,7 +1627,7 @@
 			)
 		)
 		(property "Sim.Type" "DC"
-			(at 185.42 123.19 0)
+			(at 185.42 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1353,7 +1638,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 185.42 123.19 0)
+			(at 185.42 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

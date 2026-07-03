@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "getting-started:Switch_Toggle_SPST_NKK_M2011S3A1x03"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
